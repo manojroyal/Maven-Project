@@ -1,7 +1,7 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Hello DEVOPS5</title>
+<title>MANOJ KUMAR GOBBURU</title>
 </head>
 <body bgcolor="#E6666A">
 
